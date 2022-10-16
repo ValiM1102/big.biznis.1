@@ -1,5 +1,5 @@
 body {
-    background-color: aquamarine;
+    background-image: url(../img/restaurant.webp);
     color: orange;
     font-family: sans-serif;
     font-size: 25px;
@@ -20,7 +20,18 @@ h2 {
 }
 
 .box {
-    background-color: blue;
+    background-image: url(../img/drift3.jpeg);
     font-weight: bold;
-    width: 120px;
+    width: 109px;
+    
+    margin: 50px;
+
+    padding: 100px 150px;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.text {
+    margin: 50px;
 }
